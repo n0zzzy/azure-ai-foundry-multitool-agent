@@ -2,6 +2,9 @@
 
 A production-ready multi-tool AI agent built using **Microsoft Azure AI Foundry**, demonstrating tool integrations (**Code Interpreter** and **Web Search**), streaming responses via the **OpenAI Protocol**, and direct invocation using **REST API / cURL**.
 
+
+<p align="center"><img src="docs/architecture.svg" alt="Architecture diagram" width="100%"/></p>
+
 ---
 
 ## Architecture & Features
